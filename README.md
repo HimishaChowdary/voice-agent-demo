@@ -5,7 +5,9 @@ your speech transcribed to text, get an AI-generated reply, and hear
 that reply spoken back to you — all in the browser, no phone system or
 call center software involved.
 
-🔗 **Live demo:** (add your Streamlit Cloud link here once deployed)
+🔗 **Live demo:** 
+
+https://voice-agent-demo-qkjypekw3sxns3pxflzual.streamlit.app/
 
 ## Why I built this
 
@@ -29,6 +31,9 @@ Text-to-speech (free Google TTS, via gTTS)
         ↓
 Audio playback in the browser
 ```
+
+<img width="1410" height="831" alt="image" src="https://github.com/user-attachments/assets/553708e9-8fee-42fc-a4e3-f720258d89ff" />
+
 
 ## Tech stack
 
